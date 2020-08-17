@@ -23,7 +23,7 @@ __Features__:
 
 - Capable of achieving high scores
 
-__To read__ : Please read this [blog](https://blog.paperspace.com/dino-run/) to understand hoe the prgram works.
+__To read__ : Please read this [blog](https://blog.paperspace.com/dino-run/) to understand how the pragram works.
 
 <br/>
 
