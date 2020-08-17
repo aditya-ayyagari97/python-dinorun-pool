@@ -1,5 +1,5 @@
 # python-dinorun-pool
->Gaming like a pro! Dino Run using AI and Automation
+>***Gaming like a pro! Dino Run using AI and Automation***
 
 ## These are a couple of repositories that I found interesting. Hope you’ll like them
 >***For my personal favourites, look out for one of these :+1:*** 
@@ -10,7 +10,8 @@
 ## 1. Reinforcement learning :+1:
 [link](https://github.com/Paperspace/DinoRunTutorial)
 
-This is my personal favourites. Everything is explained in detail and the codes are easy to use.
+This is my personal favourite. This involves some Machine Learning and Automation.
+Look out for the performance graph in the tutorial.
 
 __Features__:
 
@@ -22,7 +23,7 @@ __Features__:
 
 - Capable of achieving high scores
 
-__To read__ : Please read this [blog](https://blog.paperspace.com/dino-run/) to understand the working better
+__To read__ : Please read this [blog](https://blog.paperspace.com/dino-run/) to understand hoe the prgram works.
 
 <br/>
 
