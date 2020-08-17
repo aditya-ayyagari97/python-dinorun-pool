@@ -1,5 +1,5 @@
 # python-dinorun-pool
->***Gaming like a pro! Dino Run using AI and Automation***
+>***Gaming like a Pro! Dino Run using AI and Automation***
 
 ## These are a couple of repositories that I found interesting. Hope you’ll like them
 >***For my personal favourites, look out for one of these :+1:*** 
